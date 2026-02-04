@@ -103,6 +103,10 @@ nav button {
   width: 120px;
 }
 
+nav button:hover {
+  cursor: pointer;
+}
+
 #content {
   grid-column: 2/3;
   display: flex;
