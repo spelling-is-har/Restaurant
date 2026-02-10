@@ -23,7 +23,7 @@ export function menu(event) {
     { item: "Dill Pickles", price: "£4.99" },
     { item: "Pickled Chilli's", price: "£4.99" },
     { item: "Pickleback", price: "£6.99" },
-    { item: "Cheese & Pickle Sandwich", price: "£9.99" },
+    { item: "Cheese & Pickle", price: "£9.99" },
   ];
 
   for (let menuItem of menuItems) {
